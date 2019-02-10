@@ -1,0 +1,642 @@
+State,District,Name,EMP_2011,MSW_2011,BF_2011,MSL_2011,FC_2011,CHH_2011
+1,1,Kupwara,Unemployment,1,2,3,1,1
+1,2,Badgam,Unemployment,3,2,3,1,2
+1,3,Leh(Ladakh),Non Agri,1,2,3,3,2
+1,4,Kargil,Non Agri,3,3,3,1,1
+1,5,Punch,Unemployment,1,1,3,1,1
+1,6,Rajouri,Unemployment,1,1,3,1,2
+1,7,Kathua,Unemployment,3,1,3,1,3
+1,8,Baramula,Unemployment,3,2,3,1,2
+1,9,Bandipore,Unemployment,3,2,3,1,2
+1,10,Srinagar,Non Agri,3,3,3,3,3
+1,11,Ganderbal,Non Agri,3,2,3,1,2
+1,12,Pulwama,Unemployment,3,2,3,1,2
+1,13,Shupiyan,Unemployment,3,2,3,1,3
+1,14,Anantnag,Unemployment,3,2,3,1,2
+1,15,Kulgam,Unemployment,3,1,2,1,2
+1,16,Doda,Unemployment,3,1,3,1,1
+1,17,Ramban,Unemployment,3,1,2,1,2
+1,18,Kishtwar,Unemployment,3,1,3,1,2
+1,19,Udhampur,Unemployment,1,1,3,1,2
+1,20,Reasi,Agricultural,3,1,2,1,2
+1,21,Jammu,Non Agri,3,2,3,3,3
+1,22,Samba,Non Agri,3,1,3,3,3
+2,23,Chamba,Agricultural,3,2,3,1,3
+2,24,Kangra,Non Agri,3,3,3,1,3
+2,25,Lahul & Spiti,Agricultural,3,3,3,1,3
+2,26,Kullu,Agricultural,3,2,3,1,3
+2,27,Mandi,Agricultural,3,3,3,1,3
+2,28,Hamirpur,Agricultural,3,3,3,1,3
+2,29,Una,Non Agri,3,3,3,1,3
+2,30,Bilaspur,Agricultural,3,3,3,1,3
+2,31,Solan,Agricultural,3,3,3,3,3
+2,32,Sirmaur,Agricultural,3,3,3,1,3
+2,33,Shimla,Agricultural,3,3,3,3,3
+2,34,Kinnaur,Agricultural,3,3,3,3,3
+3,35,Gurdaspur,Non Agri,2,2,3,3,2
+3,36,Kapurthala ,Non Agri,3,3,3,3,2
+3,37,Jalandhar,Non Agri,3,3,3,3,2
+3,38,Hoshiarpur,Non Agri,3,3,3,3,2
+3,39,Shahid Bhagat Singh Nagar ,Non Agri,2,3,3,3,2
+3,40,Fatehgarh Sahib,Non Agri,2,3,3,3,2
+3,41,Ludhiana,Non Agri,3,3,3,3,2
+3,42,Moga,Unemployment,2,3,3,3,2
+3,43,Firozpur,Unemployment,2,2,3,3,2
+3,44,Muktsar,Unemployment,3,2,3,3,1
+3,45,Faridkot,Unemployment,2,3,3,3,2
+3,46,Bathinda,Unemployment,3,2,3,3,2
+3,47,Mansa,Unemployment,2,2,3,2,2
+3,48,Patiala,Non Agri,3,3,3,3,2
+3,49,Amritsar ,Non Agri,2,3,3,3,2
+3,50,Tarn Taran,Unemployment,2,2,3,2,1
+3,51,Rupnagar,Non Agri,3,3,3,3,3
+3,52,Sahibzada Ajit Singh Nagar,Non Agri,3,3,3,3,3
+3,53,Sangrur,Unemployment,2,2,3,3,2
+3,54,Barnala,Unemployment,3,2,3,3,2
+4,55,Chandigarh,Non Agri,3,3,3,3,3
+5,56,Uttarkashi,Agricultural,3,2,3,1,3
+5,57,Chamoli,Agricultural,3,2,3,1,3
+5,58,Rudraprayag,Agricultural,3,2,3,1,3
+5,59,Tehri Garhwal,Agricultural,3,2,3,1,3
+5,60,Dehradun,Non Agri,3,3,3,3,3
+5,61,Garhwal,Unemployment,3,2,3,1,3
+5,62,Pithoragarh,Agricultural,3,2,3,1,3
+5,63,Bageshwar,Agricultural,3,2,3,1,3
+5,64,"Almora_x000D__x000D__x000D_
+",Agricultural,3,2,3,1,3
+5,65,Champawat,Unemployment,3,2,3,1,2
+5,66,Nainital,Unemployment,3,3,3,3,3
+5,67,Udham Singh Nagar,Unemployment,2,3,3,1,2
+5,68,Hardwar,Non Agri,2,2,3,3,2
+6,69,Panchkula,Non Agri,3,3,3,3,3
+6,70,Ambala,Non Agri,3,3,3,3,2
+6,71,Yamunanagar,Non Agri,3,2,3,3,2
+6,72,Kurukshetra,Unemployment,3,3,3,3,2
+6,73,Kaithal,Unemployment,3,2,3,2,2
+6,74,Karnal,Unemployment,3,3,3,3,2
+6,75,Panipat,Non Agri,3,3,3,3,2
+6,76,Sonipat,Unemployment,3,3,3,3,2
+6,77,Jind,Unemployment,3,2,3,2,2
+6,78,Fatehabad,Unemployment,3,2,3,2,2
+6,79,Sirsa,Unemployment,3,2,3,2,2
+6,80,Hisar,Unemployment,3,2,3,2,2
+6,81,Bhiwani,Unemployment,3,2,3,2,2
+6,82,Rohtak,Unemployment,3,3,3,3,2
+6,83,Jhajjar,Unemployment,3,3,3,3,2
+6,84,Mahendragarh,Unemployment,3,2,3,2,2
+6,85,Rewari,Non Agri,3,2,3,2,2
+6,86,Gurgaon,Non Agri,3,3,3,3,3
+6,87,Mewat ,Unemployment,1,1,2,2,1
+6,88,Faridabad,Non Agri,3,3,3,3,2
+6,89,Palwal ,Unemployment,3,2,3,2,2
+7,90,North West,Non Agri,3,3,3,3,3
+7,91,North,Non Agri,3,3,3,3,2
+7,92,North East,Non Agri,3,3,3,3,3
+7,93,East,Non Agri,3,3,3,3,3
+7,94,New Delhi,Non Agri,3,3,3,3,3
+7,95,Central,Non Agri,3,3,3,3,2
+7,96,West,Non Agri,3,3,3,3,3
+7,97,South West,Non Agri,3,3,3,3,3
+7,98,South,Non Agri,3,3,3,3,3
+8,99,Ganganagar ,Agricultural,3,2,3,2,2
+8,100,Hanumangarh,Agricultural,3,2,3,2,3
+8,101,Bikaner,Agricultural,3,2,2,1,2
+8,102,Churu,Agricultural,3,2,2,1,2
+8,103,Jhunjhunun,Unemployment,3,2,3,1,3
+8,104,Alwar,Agricultural,2,1,3,2,2
+8,105,Bharatpur,Agricultural,2,1,2,2,2
+8,106,Dhaulpur,Agricultural,2,1,2,2,1
+8,107,Karauli,Agricultural,2,1,2,2,1
+8,108,Sawai Madhopur,Agricultural,2,1,2,2,2
+8,109,Dausa,Agricultural,2,1,2,1,2
+8,110,Jaipur,Non Agri,3,3,3,3,3
+8,111,Sikar,Unemployment,3,2,3,1,3
+8,112,Nagaur,Agricultural,1,1,2,1,2
+8,113,Jodhpur,Unemployment,1,1,2,1,2
+8,114,Jaisalmer,Agricultural,1,1,2,1,1
+8,115,Barmer,Agricultural,1,1,1,1,1
+8,116,Jalor,Agricultural,1,1,2,1,1
+8,117,Sirohi,Unemployment,2,1,2,1,2
+8,118,Pali,Unemployment,1,1,3,1,2
+8,119,Ajmer,Non Agri,3,1,3,1,2
+8,120,Tonk,Agricultural,2,1,2,1,2
+8,121,Bundi,Agricultural,2,1,2,1,2
+8,122,Bhilwara,Agricultural,2,1,3,1,2
+8,123,Rajsamand,Agricultural,2,1,3,1,2
+8,124,Dungarpur,Unemployment,2,1,2,1,1
+8,125,Banswara,Agricultural,2,1,1,1,1
+8,126,Chittaurgarh,Agricultural,2,1,3,1,2
+8,127,Kota,Non Agri,3,2,3,3,3
+8,128,Baran,Agricultural,2,1,2,1,2
+8,129,Jhalawar,Agricultural,2,1,3,1,1
+8,130,Udaipur,Unemployment,2,1,2,1,2
+8,131,Pratapgarh,Agricultural,2,1,1,1,1
+9,132,Saharanpur,Unemployment,2,2,2,2,2
+9,133,Muzaffarnagar,Unemployment,2,3,2,2,2
+9,134,Bijnor,Unemployment,2,2,2,1,2
+9,135,Moradabad,Unemployment,2,2,1,2,1
+9,136,Rampur,Unemployment,2,2,1,2,1
+9,137,Jyotiba Phule Nagar,Unemployment,2,2,1,2,1
+9,138,Meerut,Non Agri,2,3,3,3,2
+9,139,Baghpat,Unemployment,2,3,2,2,2
+9,140,Ghaziabad,Non Agri,2,3,3,3,2
+9,141,Gautam Buddha Nagar,Non Agri,3,3,3,3,3
+9,142,Bulandshahr ,Unemployment,2,2,1,2,1
+9,143,Aligarh,Unemployment,2,1,2,2,2
+9,144,Mahamaya Nagar,Unemployment,2,1,2,2,1
+9,145,Mathura,Unemployment,2,1,2,2,2
+9,146,Agra,Unemployment,2,2,3,3,2
+9,147,Firozabad,Unemployment,2,1,2,2,1
+9,148,Mainpuri,Unemployment,2,1,1,2,1
+9,149,Budaun,Unemployment,2,1,1,2,1
+9,150,Bareilly,Unemployment,2,2,1,2,1
+9,151,Pilibhit,Unemployment,2,2,1,1,1
+9,152,Shahjahanpur,Unemployment,2,1,1,2,1
+9,153,Kheri,Unemployment,2,1,1,1,1
+9,154,Sitapur,Unemployment,2,1,1,1,1
+9,155,Hardoi,Unemployment,2,1,1,2,1
+9,156,Unnao,Unemployment,2,1,1,1,1
+9,157,Lucknow,Non Agri,3,3,2,3,2
+9,158,Rae Bareli,Unemployment,2,1,1,1,1
+9,159,Farrukhabad,Unemployment,2,1,1,2,1
+9,160,Kannauj,Unemployment,2,1,1,2,1
+9,161,Etawah,Unemployment,2,1,2,1,1
+9,162,Auraiya,Unemployment,2,1,1,1,1
+9,163,Kanpur Dehat,Unemployment,2,1,1,2,1
+9,164,Kanpur Nagar,Non Agri,2,3,2,3,2
+9,165,Jalaun ,Unemployment,2,1,1,2,1
+9,166,Jhansi,Unemployment,2,1,2,2,2
+9,167,Lalitpur,Agricultural,2,1,1,1,2
+9,168,Hamirpur,Unemployment,2,1,1,2,2
+9,169,Mahoba,Unemployment,2,1,1,2,2
+9,170,Banda,Unemployment,2,1,1,1,2
+9,171,Chitrakoot,Agricultural,2,1,1,1,2
+9,172,Fatehpur,Unemployment,2,1,1,1,1
+9,173,Pratapgarh,Unemployment,2,1,1,1,2
+9,174,Kaushambi,Unemployment,2,1,1,1,1
+9,175,Allahabad ,Unemployment,2,1,2,2,2
+9,176,Bara Banki,Unemployment,2,1,1,1,1
+9,177,Faizabad,Unemployment,2,1,1,1,2
+9,178,Ambedkar Nagar,Unemployment,2,1,1,2,2
+9,179,Sultanpur,Unemployment,2,1,1,1,2
+9,180,Bahraich,Unemployment,2,1,1,1,1
+9,181,Shrawasti,Unemployment,2,1,1,1,1
+9,182,Balrampur,Unemployment,2,1,1,1,1
+9,183,Gonda,Unemployment,2,1,1,1,1
+9,184,Siddharthnagar,Unemployment,2,1,1,2,2
+9,185,Basti,Unemployment,2,1,1,1,2
+9,186,Sant Kabir Nagar,Unemployment,2,1,1,2,2
+9,187,Mahrajganj,Unemployment,2,1,1,1,1
+9,188,Gorakhpur,Unemployment,2,1,2,1,2
+9,189,Kushinagar,Unemployment,2,1,1,2,1
+9,190,Deoria,Unemployment,2,1,1,1,2
+9,191,Azamgarh,Unemployment,2,1,1,2,2
+9,192,Mau,Unemployment,2,1,2,2,2
+9,193,Ballia,Unemployment,2,1,1,2,2
+9,194,Jaunpur,Unemployment,2,1,1,2,2
+9,195,Ghazipur,Unemployment,2,1,1,2,1
+9,196,Chandauli,Unemployment,2,1,1,2,2
+9,197,Varanasi,Non Agri,2,2,2,3,2
+9,198,Sant Ravidas Nagar (Bhadohi),Unemployment,2,1,1,2,2
+9,199,Mirzapur,Unemployment,2,1,1,2,2
+9,200,Sonbhadra,Unemployment,2,1,1,1,2
+9,201,Etah,Unemployment,2,1,1,2,1
+9,202,Kanshiram Nagar,Unemployment,2,1,1,2,1
+10,203,Pashchim Champaran,Unemployment,2,1,1,2,1
+10,204,Purba Champaran,Unemployment,2,1,1,2,1
+10,205,Sheohar,Unemployment,2,1,1,2,1
+10,206,Sitamarhi,Unemployment,2,1,1,2,1
+10,207,Madhubani,Unemployment,2,1,1,2,2
+10,208,Supaul,Unemployment,2,1,1,2,1
+10,209,Araria,Agricultural,2,1,1,2,1
+10,210,Kishanganj,Unemployment,2,1,1,2,1
+10,211,Purnia,Unemployment,2,1,1,2,1
+10,212,Katihar,Unemployment,2,1,1,2,1
+10,213,Madhepura,Agricultural,2,1,1,2,1
+10,214,Saharsa,Unemployment,2,1,1,2,1
+10,215,Darbhanga,Unemployment,2,1,1,2,1
+10,216,Muzaffarpur,Unemployment,2,1,1,2,1
+10,217,Gopalganj,Unemployment,2,1,1,2,1
+10,218,Siwan,Unemployment,2,1,1,2,2
+10,219,Saran,Unemployment,2,1,1,2,1
+10,220,Vaishali,Unemployment,2,1,1,2,1
+10,221,Samastipur,Unemployment,2,1,1,2,1
+10,222,Begusarai,Unemployment,2,1,1,2,1
+10,223,Khagaria,Unemployment,2,1,1,2,1
+10,224,Bhagalpur,Unemployment,2,1,1,2,1
+10,225,Banka,Unemployment,2,1,1,2,1
+10,226,Munger,Unemployment,2,1,1,2,1
+10,227,Lakhisarai,Unemployment,2,1,1,2,1
+10,228,Sheikhpura,Unemployment,2,1,1,2,1
+10,229,Nalanda,Unemployment,2,1,1,2,1
+10,230,Patna,Unemployment,2,2,2,2,2
+10,231,Bhojpur,Unemployment,2,1,1,2,1
+10,232,Buxar,Unemployment,2,1,1,2,1
+10,233,Kaimur (Bhabua),Unemployment,2,1,1,2,1
+10,234,Rohtas,Unemployment,2,1,1,2,1
+10,235,Aurangabad,Unemployment,2,1,1,2,1
+10,236,Gaya,Unemployment,2,1,1,2,1
+10,237,Nawada,Unemployment,2,1,1,2,1
+10,238,Jamui,Agricultural,2,1,1,2,1
+10,239,Jehanabad ,Unemployment,2,1,1,2,1
+10,240,Arwal,Unemployment,2,1,1,2,1
+11,241,North  District,Non Agri,3,3,3,1,2
+11,242,West District,Agricultural,3,3,3,1,2
+11,243,South District,Agricultural,3,3,3,1,2
+11,244,East District,Non Agri,3,3,3,3,3
+12,245,Tawang,Non Agri,3,2,3,1,2
+12,246,West Kameng,Non Agri,3,2,3,1,2
+12,247,East Kameng,Agricultural,3,1,2,1,1
+12,248,Papum Pare,Non Agri,3,3,3,3,2
+12,249,Upper Subansiri,Agricultural,3,1,2,1,1
+12,250,West Siang,Agricultural,3,3,3,1,2
+12,251,East Siang,Unemployment,3,2,3,1,2
+12,252,Upper Siang,Agricultural,3,2,3,1,3
+12,253,Changlang,Agricultural,1,2,2,1,2
+12,254,Tirap,Agricultural,3,2,3,1,2
+12,255,Lower Subansiri,Unemployment,3,3,3,1,3
+12,256,Kurung Kumey,Agricultural,1,1,2,1,2
+12,257,Dibang Valley,Non Agri,3,2,3,1,2
+12,258,Lower Dibang Valley,Agricultural,3,2,2,1,2
+12,259,Lohit,Agricultural,2,2,2,1,1
+12,260,Anjaw,Agricultural,3,1,3,1,1
+13,261,Mon,Agricultural,1,2,1,1,1
+13,262,Mokokchung,Agricultural,1,3,3,1,3
+13,263,Zunheboto,Agricultural,3,2,3,1,2
+13,264,Wokha,Agricultural,1,2,3,1,2
+13,265,Dimapur ,Non Agri,1,3,3,3,2
+13,266,Phek,Agricultural,3,2,3,1,2
+13,267,Tuensang,Agricultural,3,2,2,1,1
+13,268,Longleng,Agricultural,1,2,2,1,1
+13,269,Kiphire,Agricultural,3,2,3,1,2
+13,270,Kohima,Non Agri,1,3,3,1,3
+13,271,Peren,Agricultural,1,2,3,1,2
+14,272,Senapati,Agricultural,1,2,3,1,1
+14,273,Tamenglong ,Agricultural,1,2,2,1,1
+14,274,Churachandpur,Agricultural,1,2,2,1,2
+14,275,Bishnupur,Non Agri,1,2,3,1,3
+14,276,Thoubal,Agricultural,1,2,2,1,3
+14,277,Imphal West,Non Agri,3,3,3,3,3
+14,278,Imphal East,Non Agri,1,3,3,3,3
+14,279,Ukhrul,Agricultural,1,2,2,1,1
+14,280,Chandel,Agricultural,1,2,2,1,1
+15,281,Mamit,Agricultural,1,2,2,1,2
+15,282,Kolasib,Agricultural,3,3,3,3,2
+15,283,Aizawl,Non Agri,3,3,3,3,3
+15,284,Champhai,Agricultural,3,3,3,1,2
+15,285,Serchhip,Agricultural,3,3,3,1,2
+15,286,Lunglei,Agricultural,1,2,3,1,2
+15,287,Lawngtlai,Agricultural,1,2,2,1,2
+15,288,Saiha,Unemployment,3,2,2,3,3
+16,289,West Tripura ,Non Agri,2,2,3,1,2
+16,290,South Tripura ,Unemployment,1,2,2,1,2
+16,291,Dhalai,Unemployment,1,2,2,1,2
+16,292,North Tripura,Unemployment,1,2,2,1,2
+17,293,West Garo Hills,Unemployment,1,2,2,1,2
+17,294,East Garo Hills,Agricultural,1,2,2,1,2
+17,295,South Garo Hills,Unemployment,1,2,2,1,2
+17,296,West Khasi Hills,Agricultural,1,2,2,1,1
+17,297,Ribhoi,Agricultural,1,2,2,1,1
+17,298,East Khasi Hills,Non Agri,3,3,3,1,2
+17,299,Jaintia Hills,Agricultural,1,2,2,1,2
+18,300,Kokrajhar,Unemployment,2,1,1,1,1
+18,301,Dhubri,Unemployment,2,2,1,1,1
+18,302,Goalpara,Unemployment,2,2,1,1,1
+18,303,Barpeta,Unemployment,2,2,1,2,1
+18,304,Morigaon,Unemployment,2,2,1,1,1
+18,305,Nagaon,Unemployment,2,2,1,1,1
+18,306,Sonitpur,Unemployment,1,2,1,1,1
+18,307,Lakhimpur,Unemployment,2,2,1,1,1
+18,308,Dhemaji,Agricultural,2,2,1,1,1
+18,309,Tinsukia,Non Agri,2,2,2,1,2
+18,310,Dibrugarh,Non Agri,2,2,2,1,2
+18,311,Sivasagar,Non Agri,2,2,2,1,1
+18,312,Jorhat,Non Agri,2,2,2,1,1
+18,313,Golaghat,Unemployment,2,2,1,1,1
+18,314,Karbi Anglong,Unemployment,1,2,1,1,1
+18,315,Dima Hasao,Unemployment,1,2,2,1,1
+18,316,Cachar,Non Agri,1,2,1,1,1
+18,317,Karimganj,Unemployment,1,2,1,1,1
+18,318,Hailakandi,Unemployment,1,2,1,1,1
+18,319,Bongaigaon,Unemployment,2,2,1,1,1
+18,320,Chirang,Unemployment,1,1,1,1,1
+18,321,Kamrup,Unemployment,2,2,1,1,1
+18,322,Kamrup Metropolitan,Non Agri,1,3,3,3,3
+18,323,Nalbari,Unemployment,2,2,2,1,1
+18,324,Baksa,Unemployment,2,1,1,1,1
+18,325,Darrang,Unemployment,2,2,1,1,1
+18,326,Udalguri,Unemployment,2,2,1,1,1
+19,327,Darjiling ,Non Agri,1,2,3,1,2
+19,328,Jalpaiguri ,Non Agri,1,2,2,1,1
+19,329,Koch Bihar ,Unemployment,2,2,1,1,1
+19,330,Uttar Dinajpur,Unemployment,2,1,1,2,1
+19,331,Dakshin Dinajpur,Unemployment,2,1,2,2,1
+19,332,Maldah ,Unemployment,2,1,1,2,1
+19,333,Murshidabad ,Unemployment,2,1,1,2,1
+19,334,Birbhum,Unemployment,2,1,2,2,1
+19,335,Barddhaman ,Unemployment,2,2,2,2,2
+19,336,Nadia ,Unemployment,2,2,2,2,1
+19,337,North Twenty Four Parganas,Non Agri,2,2,2,3,2
+19,338,Hugli ,Non Agri,2,2,3,2,2
+19,339,Bankura ,Unemployment,2,1,2,2,1
+19,340,Puruliya,Unemployment,2,1,1,1,1
+19,341,Haora ,Non Agri,2,2,3,2,2
+19,342,Kolkata,Non Agri,3,3,3,3,3
+19,343,South Twenty Four Parganas,Unemployment,2,2,2,2,1
+19,344,Paschim Medinipur,Unemployment,2,2,2,2,1
+19,345,Purba Medinipur,Unemployment,2,2,2,2,1
+20,346,Garhwa ,Unemployment,2,1,1,1,1
+20,347,Chatra,Unemployment,1,1,1,1,1
+20,348,Kodarma,Unemployment,1,1,2,1,2
+20,349,Giridih,Unemployment,1,1,1,2,2
+20,350,Deoghar,Unemployment,2,1,2,2,1
+20,351,Godda,Unemployment,2,1,1,2,1
+20,352,Sahibganj,Agricultural,2,1,1,2,1
+20,353,Pakur,Agricultural,2,1,1,2,1
+20,354,Dhanbad,Non Agri,1,1,3,2,2
+20,355,Bokaro,Non Agri,1,1,2,2,2
+20,356,Lohardaga,Agricultural,1,1,1,1,1
+20,357,Purbi Singhbhum,Non Agri,2,2,3,3,2
+20,358,Palamu,Unemployment,2,1,1,1,1
+20,359,Latehar,Unemployment,2,1,1,1,1
+20,360,Hazaribagh,Unemployment,1,1,2,2,2
+20,361,Ramgarh,Unemployment,1,1,3,2,2
+20,362,Dumka,Agricultural,2,1,1,1,1
+20,363,Jamtara,Unemployment,2,1,1,2,1
+20,364,Ranchi,Unemployment,1,1,2,1,2
+20,365,Khunti,Agricultural,1,1,1,1,1
+20,366,Gumla,Agricultural,1,1,1,1,1
+20,367,Simdega,Agricultural,1,1,1,1,1
+20,368,Pashchimi Singhbhum,Agricultural,2,1,2,1,2
+20,369,Saraikela-Kharsawan,Unemployment,2,1,2,1,2
+21,370,Bargarh,Agricultural,2,1,2,1,1
+21,371,Jharsuguda,Non Agri,2,1,2,1,1
+21,372,Sambalpur,Agricultural,2,1,2,1,1
+21,373,Debagarh,Agricultural,2,1,1,1,1
+21,374,Sundargarh,Unemployment,2,1,2,1,1
+21,375,Kendujhar,Unemployment,2,1,1,1,1
+21,376,Mayurbhanj,Agricultural,2,1,1,1,1
+21,377,Baleshwar,Unemployment,2,1,2,2,1
+21,378,Bhadrak,Unemployment,2,1,2,2,1
+21,379,Kendrapara ,Unemployment,2,1,2,2,1
+21,380,Jagatsinghapur ,Unemployment,2,1,2,2,1
+21,381,Cuttack,Unemployment,2,1,2,2,1
+21,382,Jajapur  ,Unemployment,2,1,2,2,1
+21,383,Dhenkanal,Unemployment,1,1,2,1,1
+21,384,Anugul  ,Unemployment,1,1,2,1,1
+21,385,Nayagarh  ,Unemployment,2,1,2,1,1
+21,386,Khordha ,Non Agri,1,2,2,3,2
+21,387,Puri,Unemployment,2,1,2,2,1
+21,388,Ganjam,Unemployment,1,1,2,1,1
+21,389,Gajapati,Agricultural,1,1,2,1,1
+21,390,Kandhamal,Agricultural,1,1,1,1,1
+21,391,Baudh,Agricultural,2,1,1,1,1
+21,392,Subarnapur,Agricultural,2,1,1,1,1
+21,393,Balangir,Unemployment,2,1,1,1,1
+21,394,Nuapada,Agricultural,2,1,1,1,1
+21,395,Kalahandi,Agricultural,2,1,1,1,1
+21,396,Rayagada  ,Agricultural,2,1,1,1,1
+21,397,Nabarangapur ,Agricultural,2,1,1,1,1
+21,398,Koraput,Agricultural,2,1,1,1,1
+21,399,Malkangiri  ,Agricultural,2,1,1,1,1
+22,400,Koriya,Agricultural,1,1,2,1,2
+22,401,Surguja,Agricultural,2,1,2,1,2
+22,402,Jashpur ,Agricultural,2,1,2,1,2
+22,403,Raigarh,Agricultural,2,1,3,1,1
+22,404,Korba ,Unemployment,2,1,3,1,2
+22,405,Janjgir - Champa,Agricultural,2,1,3,1,1
+22,406,Bilaspur,Agricultural,2,1,3,1,1
+22,407,Kabeerdham,Agricultural,2,1,3,1,1
+22,408,Rajnandgaon,Agricultural,2,1,3,1,2
+22,409,Durg,Agricultural,2,1,3,1,2
+22,410,Raipur,Unemployment,2,1,3,1,2
+22,411,Mahasamund,Agricultural,2,1,3,1,1
+22,412,Dhamtari ,Agricultural,2,1,3,1,2
+22,413,Uttar Bastar Kanker,Agricultural,2,1,2,1,2
+22,414,Bastar,Agricultural,2,1,2,1,2
+22,415,Narayanpur,Agricultural,2,1,1,1,1
+22,416,Dakshin Bastar Dantewada,Agricultural,2,1,1,1,2
+22,417,Bijapur,Agricultural,2,1,1,1,1
+23,418,Sheopur ,Agricultural,2,1,2,1,1
+23,419,Morena,Unemployment,2,1,1,2,2
+23,420,Bhind,Unemployment,2,1,1,2,2
+23,421,Gwalior,Non Agri,2,3,3,3,3
+23,422,Datia,Agricultural,2,1,2,2,2
+23,423,Shivpuri,Agricultural,2,1,2,1,2
+23,424,Tikamgarh,Agricultural,2,1,2,1,2
+23,425,Chhatarpur,Agricultural,2,1,2,1,2
+23,426,Panna,Agricultural,2,1,1,1,2
+23,427,Sagar,Agricultural,2,1,2,1,2
+23,428,Damoh,Agricultural,2,1,2,1,2
+23,429,Satna,Unemployment,2,1,2,1,3
+23,430,Rewa,Unemployment,2,1,2,2,3
+23,431,Umaria,Unemployment,2,1,2,1,2
+23,432,Neemuch ,Agricultural,1,1,3,1,2
+23,433,Mandsaur,Agricultural,1,1,3,1,2
+23,434,Ratlam,Agricultural,2,1,2,1,2
+23,435,Ujjain,Agricultural,2,1,3,1,2
+23,436,Shajapur,Agricultural,2,1,3,1,2
+23,437,Dewas,Agricultural,2,1,3,1,2
+23,438,Dhar,Agricultural,2,1,3,1,2
+23,439,Indore,Non Agri,2,3,3,3,3
+23,440,Khargone (West Nimar),Agricultural,3,1,3,2,1
+23,441,Barwani ,Agricultural,2,1,3,1,1
+23,442,Rajgarh,Agricultural,2,1,2,1,1
+23,443,Vidisha,Unemployment,2,1,2,1,2
+23,444,Bhopal,Non Agri,3,3,3,3,3
+23,445,Sehore,Agricultural,2,1,3,1,2
+23,446,Raisen,Unemployment,2,1,2,1,2
+23,447,Betul,Agricultural,2,1,2,1,2
+23,448,Harda ,Unemployment,2,2,3,1,2
+23,449,Hoshangabad,Unemployment,2,2,3,1,2
+23,450,Katni ,Unemployment,2,1,2,1,2
+23,451,Jabalpur,Non Agri,2,2,3,1,2
+23,452,Narsimhapur,Agricultural,2,1,2,1,2
+23,453,Dindori ,Agricultural,2,1,1,1,2
+23,454,Mandla,Agricultural,2,1,2,1,2
+23,455,Chhindwara,Agricultural,1,1,3,1,2
+23,456,Seoni,Agricultural,2,1,2,1,2
+23,457,Balaghat,Agricultural,2,1,2,1,2
+23,458,Guna,Agricultural,2,1,2,1,2
+23,459,Ashoknagar,Unemployment,2,1,2,1,2
+23,460,Shahdol,Agricultural,1,1,2,1,2
+23,461,Anuppur,Agricultural,1,1,2,1,3
+23,462,Sidhi,Agricultural,2,1,2,1,3
+23,463,Singrauli,Agricultural,1,1,1,1,2
+23,464,Jhabua,Agricultural,2,1,2,1,1
+23,465,Alirajpur,Agricultural,2,1,2,1,1
+23,466,Khandwa (East Nimar),Agricultural,2,1,3,1,2
+23,467,Burhanpur,Agricultural,3,1,3,1,2
+24,468,Kachchh,Non Agri,3,3,3,1,3
+24,469,Banas Kantha,Agricultural,3,1,2,1,2
+24,470,Patan  ,Agricultural,3,2,3,1,3
+24,471,Mahesana,Unemployment,3,2,3,3,3
+24,472,Sabar Kantha,Agricultural,3,1,3,1,2
+24,473,Gandhinagar,Unemployment,3,3,3,3,3
+24,474,Ahmadabad,Non Agri,3,3,3,3,3
+24,475,Surendranagar,Unemployment,3,1,3,1,3
+24,476,Rajkot,Non Agri,3,3,3,3,3
+24,477,Jamnagar,Unemployment,3,2,3,3,3
+24,478,Porbandar ,Unemployment,3,2,3,3,3
+24,479,Junagadh,Unemployment,3,2,3,1,3
+24,480,Amreli,Agricultural,3,2,3,2,3
+24,481,Bhavnagar,Unemployment,3,2,3,3,3
+24,482,Anand  ,Unemployment,3,2,3,1,3
+24,483,Kheda,Unemployment,3,1,3,1,2
+24,484,Panch Mahals,Agricultural,2,1,3,1,2
+24,485,Dohad  ,Agricultural,1,1,3,1,1
+24,486,Vadodara,Unemployment,3,3,3,3,3
+24,487,Narmada,Agricultural,2,1,3,1,2
+24,488,Bharuch,Unemployment,3,3,3,3,3
+24,489,The Dangs,Agricultural,2,1,2,1,3
+24,490,Navsari  ,Agricultural,3,2,3,1,3
+24,491,Valsad,Non Agri,2,2,3,1,3
+24,492,Surat,Non Agri,3,3,3,3,3
+24,493,Tapi,Agricultural,2,1,3,1,3
+25,494,Diu,Non Agri,3,3,3,3,3
+25,495,Daman,Non Agri,3,3,3,3,3
+26,496,Dadra & Nagar Haveli,Non Agri,2,2,3,3,3
+27,497,Nandurbar,Agricultural,3,1,2,1,2
+27,498,Dhule,Agricultural,3,1,3,1,3
+27,499,Jalgaon,Agricultural,3,1,3,3,3
+27,500,Buldana,Agricultural,3,1,3,1,2
+27,501,Akola,Agricultural,3,2,3,1,2
+27,502,Washim,Agricultural,1,1,3,1,2
+27,503,Amravati,Agricultural,3,2,3,1,2
+27,504,Wardha,Agricultural,3,2,3,1,2
+27,505,Nagpur,Non Agri,3,3,3,3,3
+27,506,Bhandara,Agricultural,1,2,3,1,2
+27,507,Gondiya,Agricultural,1,2,3,1,2
+27,508,Gadchiroli,Agricultural,1,1,2,1,2
+27,509,Chandrapur,Agricultural,2,2,3,1,2
+27,510,Yavatmal,Agricultural,1,1,2,1,2
+27,511,Nanded,Agricultural,3,1,3,1,2
+27,512,Hingoli,Agricultural,2,1,2,1,2
+27,513,Parbhani,Agricultural,2,1,3,1,2
+27,514,Jalna,Agricultural,1,1,3,1,2
+27,515,Aurangabad,Agricultural,3,2,3,1,3
+27,516,Nashik,Agricultural,3,2,3,3,3
+27,517,Thane,Non Agri,3,3,3,3,3
+27,518,Mumbai Suburban,Non Agri,3,2,3,3,3
+27,519,Mumbai,Non Agri,3,3,3,3,3
+27,520,Raigarh,Non Agri,3,2,3,3,3
+27,521,Pune,Non Agri,3,3,3,3,3
+27,522,Ahmadnagar,Agricultural,1,2,3,1,3
+27,523,Bid,Agricultural,1,1,3,1,2
+27,524,Latur,Agricultural,3,1,3,1,2
+27,525,Osmanabad,Agricultural,3,1,2,1,2
+27,526,Solapur,Agricultural,3,1,2,1,3
+27,527,Satara,Agricultural,3,2,3,3,3
+27,528,Ratnagiri,Agricultural,3,3,3,1,3
+27,529,Sindhudurg,Unemployment,1,3,3,1,3
+27,530,Kolhapur,Agricultural,3,3,3,3,3
+27,531,Sangli,Agricultural,3,2,3,3,3
+28,532,Adilabad,Agricultural,2,1,3,1,3
+28,533,Nizamabad,Agricultural,3,1,3,1,3
+28,534,Karimnagar,Agricultural,3,2,3,1,3
+28,535,Medak,Agricultural,3,2,3,1,3
+28,536,Hyderabad,Non Agri,3,3,3,3,3
+28,537,Rangareddy,Non Agri,3,3,3,3,3
+28,538,Mahbubnagar,Agricultural,3,1,3,1,3
+28,539,Nalgonda,Agricultural,3,1,3,1,3
+28,540,Warangal,Agricultural,3,1,3,1,2
+28,541,Khammam,Agricultural,3,2,3,1,3
+28,542,Srikakulam,Agricultural,1,1,3,1,3
+28,543,Vizianagaram,Agricultural,2,1,3,1,3
+28,544,Visakhapatnam,Unemployment,3,2,3,3,3
+28,545,East Godavari,Unemployment,3,2,3,1,3
+28,546,West Godavari,Agricultural,3,3,3,1,3
+28,547,Krishna,Agricultural,3,3,3,3,3
+28,548,Guntur,Agricultural,3,2,3,3,3
+28,549,Prakasam,Agricultural,3,1,3,1,3
+28,550,Sri Potti Sriramulu Nellore,Agricultural,3,1,3,1,3
+28,551,Y.S.R.,Agricultural,3,2,3,1,3
+28,552,Kurnool,Agricultural,3,1,3,1,3
+28,553,Anantapur,Agricultural,3,1,3,1,3
+28,554,Chittoor,Agricultural,3,1,3,1,3
+29,555,Belgaum,Agricultural,3,1,3,1,3
+29,556,Bagalkot ,Agricultural,3,1,3,1,2
+29,557,Bijapur,Agricultural,3,1,3,1,2
+29,558,Bidar,Unemployment,3,1,3,1,2
+29,559,Raichur,Agricultural,3,1,3,1,2
+29,560,Koppal,Agricultural,3,1,3,1,2
+29,561,Gadag,Agricultural,3,1,3,1,2
+29,562,Dharwad,Unemployment,3,2,3,1,3
+29,563,Uttara Kannada,Non Agri,1,2,3,1,2
+29,564,Haveri,Agricultural,3,1,3,1,2
+29,565,Bellary,Agricultural,3,1,3,1,3
+29,566,Chitradurga,Agricultural,3,1,3,1,2
+29,567,Davanagere,Agricultural,3,2,3,1,2
+29,568,Shimoga,Agricultural,3,2,3,1,2
+29,569,Udupi,Non Agri,1,3,3,1,3
+29,570,Chikmagalur,Agricultural,3,2,3,1,2
+29,571,Tumkur,Agricultural,3,1,3,1,2
+29,572,Bangalore,Non Agri,3,3,3,3,3
+29,573,Mandya,Agricultural,3,1,3,1,2
+29,574,Hassan,Agricultural,3,1,3,1,2
+29,575,Dakshina Kannada,Non Agri,1,3,3,1,3
+29,576,Kodagu,Non Agri,1,3,3,1,2
+29,577,Mysore,Unemployment,3,2,3,3,2
+29,578,Chamarajanagar,Agricultural,3,1,3,1,2
+29,579,Gulbarga,Agricultural,3,1,3,1,2
+29,580,Yadgir,Agricultural,3,1,3,1,2
+29,581,Kolar,Agricultural,3,1,3,1,2
+29,582,Chikkaballapura,Agricultural,3,1,3,1,3
+29,583,Bangalore Rural,Agricultural,3,2,3,1,3
+29,584,Ramanagara,Agricultural,3,1,3,1,2
+30,585,North Goa,Non Agri,3,3,3,3,3
+30,586,South Goa,Non Agri,3,3,3,3,3
+31,587,Lakshadweep,Non Agri,1,3,3,1,3
+32,588,Kasaragod,Non Agri,1,3,3,1,3
+32,589,Kannur,Non Agri,1,3,3,1,3
+32,590,Wayanad,Unemployment,1,3,3,1,2
+32,591,Kozhikode,Non Agri,1,3,3,1,3
+32,592,Malappuram,Non Agri,1,3,3,1,3
+32,593,Palakkad,Non Agri,1,3,3,1,3
+32,594,Thrissur,Non Agri,1,3,3,3,3
+32,595,Ernakulam,Non Agri,1,3,3,3,3
+32,596,Idukki ,Agricultural,1,3,3,1,2
+32,597,Kottayam,Non Agri,1,3,3,1,3
+32,598,Alappuzha,Non Agri,1,3,3,3,3
+32,599,Pathanamthitta,Non Agri,1,3,3,1,3
+32,600,Kollam,Non Agri,1,3,3,1,3
+32,601,Thiruvananthapuram,Non Agri,1,3,3,1,3
+33,602,Thiruvallur,Non Agri,3,3,3,3,3
+33,603,Chennai,Non Agri,3,3,3,3,3
+33,604,Kancheepuram,Non Agri,3,3,3,3,3
+33,605,Vellore,Non Agri,3,1,3,3,3
+33,606,Tiruvannamalai,Agricultural,3,1,3,1,3
+33,607,Viluppuram,Agricultural,3,1,3,1,3
+33,608,Salem,Non Agri,3,1,3,3,3
+33,609,Namakkal   ,Agricultural,3,1,3,3,3
+33,610,Erode,Agricultural,3,2,3,3,3
+33,611,The Nilgiris,Non Agri,3,2,3,3,3
+33,612,Dindigul,Agricultural,3,1,3,1,3
+33,613,Karur ,Agricultural,3,1,3,3,3
+33,614,Tiruchirappalli,Non Agri,3,2,3,3,3
+33,615,Perambalur  ,Agricultural,3,1,3,1,3
+33,616,Ariyalur  ,Agricultural,3,1,3,1,2
+33,617,Cuddalore,Unemployment,3,1,3,1,3
+33,618,Nagapattinam  ,Unemployment,3,1,3,1,2
+33,619,Thiruvarur,Unemployment,3,1,3,1,2
+33,620,Thanjavur,Unemployment,3,2,3,1,2
+33,621,Pudukkottai,Agricultural,3,1,3,1,2
+33,622,Sivaganga,Agricultural,3,1,3,1,3
+33,623,Madurai,Non Agri,3,3,3,3,3
+33,624,Theni  ,Agricultural,3,1,3,3,3
+33,625,Virudhunagar,Non Agri,3,1,3,3,3
+33,626,Ramanathapuram,Agricultural,3,1,3,1,3
+33,627,Thoothukkudi,Non Agri,3,2,3,3,3
+33,628,Tirunelveli ,Non Agri,3,2,3,3,3
+33,629,Kanniyakumari,Non Agri,3,3,3,1,3
+33,630,Dharmapuri,Agricultural,3,1,3,1,3
+33,631,Krishnagiri,Agricultural,3,1,3,1,3
+33,632,Coimbatore,Non Agri,3,3,3,3,3
+33,633,Tiruppur,Non Agri,3,2,3,3,3
+34,634,Yanam,Non Agri,3,3,3,3,3
+34,635,Puducherry,Non Agri,3,3,3,3,3
+34,636,Mahe,Non Agri,1,3,3,3,3
+34,637,Karaikal,Non Agri,3,3,3,3,3
+35,638,Nicobars,Non Agri,3,3,3,1,3
+35,639,North  & Middle Andaman,Non Agri,3,2,2,1,2
+35,640,South Andaman,Non Agri,3,3,3,3,3
