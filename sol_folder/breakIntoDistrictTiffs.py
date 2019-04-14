@@ -32,6 +32,7 @@ countryData = json.loads(open(jsonFileName).read())
 for currDistrictFeature in countryData["features"]:
     # currDistrictFeature=countryData["features"][0]
     distName=currDistrictFeature["properties"]['DISTRICT']
+    #print(distName)
     st_cen_cd=currDistrictFeature["properties"]['ST_CEN_CD']
     censuscode=currDistrictFeature["properties"]['censuscode']
     geoms=currDistrictFeature["geometry"]

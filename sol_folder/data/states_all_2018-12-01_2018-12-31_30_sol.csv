@@ -1,0 +1,642 @@
+distName,st_cen_cd,censuscode,SOL
+Chandigarh,4,55,11805.1
+Tirunelveli,33,628,25560.402
+Udalguri,18,326,8072.56
+Washim,27,502,11511.609
+West Kameng,12,246,3233.96
+Surat,24,492,68655.266
+Baramula,1,8,6017.28
+North Tripura,16,292,5877.76
+Kollam,32,600,9517.03
+Lower Subansiri,12,255,1958.7899
+Palwal,6,89,14842.75
+Ramgarh,20,361,15732.03
+Mirzapur,9,199,23818.078
+Ghazipur,9,195,25074.22
+Bikaner,8,101,63986.79
+Mahe,34,636,64.759995
+South,11,243,2033.1201
+Tiruvannamalai,33,606,15150.54
+Udupi,29,569,7549.7505
+Bellary,29,565,41360.867
+Agra,9,146,52254.76
+Jamui,10,238,12170.51
+Harda,23,448,7096.29
+Sonipat,6,76,22116.611
+Gondiya,27,507,8714.81
+Hailakandi,18,318,2566.8
+Churachandpur,14,274,3692.2998
+Bhopal,23,444,34474.297
+Panchkula,6,69,10162.91
+Sonbhadra,9,200,24656.23
+Jhalawar,8,129,22863.29
+South,7,98,29385.041
+Mahendragarh,6,84,11192.04
+Sawai Madhopur,8,108,18733.99
+Shimla,2,33,7825.54
+South 24 Parganas,19,343,58686.78
+Pratapgarh,8,131,9896.38
+Jaintia Hills,17,299,5466.92
+Kapurthala,3,36,10587.68
+Hisar,6,80,23479.709
+Mandi,2,27,6828.0303
+Faridabad,6,88,33303.26
+Hoshangabad,23,449,16010.959
+Hoshiarpur,3,38,13391.221
+Jodhpur,8,113,93637.72
+Anuppur,23,461,10977.17
+Mumbai,27,519,15729.2295
+Thiruvarur,33,619,5171.44
+Uttara Kannada,29,563,12787.189
+Bandipore,1,9,3083.7
+Sabar Kantha,24,472,21945.99
+Rohtak,6,82,15489.469
+Mandla,23,454,9331.05
+Faizabad,9,177,18086.54
+Champhai,15,284,1475.52
+Jalaun,9,165,19792.83
+Purba Medinipur,19,345,27346.74
+North West,7,90,46539.55
+Ganjam,21,388,19453.98
+Jhansi,9,166,29889.969
+Mathura,9,145,34117.094
+Bankura,19,339,23626.72
+Fatehgarh Sahib,3,40,8397.04
+Dhaulpur,8,106,11009.01
+Bageshwar,5,63,2859.07
+Belgaum,29,555,43071.45
+Mau,9,192,17469.64
+Vadodara,24,486,57733.46
+Kolhapur,27,530,20364.559
+Araria,10,209,13997.74
+Phek,13,266,1703.8201
+Ashoknagar,23,459,12927.34
+Perambalur,33,615,4321.79
+Mandsaur,23,433,16622.098
+Gwalior,23,421,39422.55
+Guntur,28,548,46338.543
+Chennai,33,603,15301.84
+Saran (chhapra),10,219,27065.44
+Darjiling,19,327,11944.85
+Chittoor,28,554,44358.438
+Guna,23,458,24253.64
+Banka,10,225,14813.55
+Chamoli,5,57,10446.86
+Muzaffarnagar,9,133,29825.309
+Sagar,23,427,44555.664
+Azamgarh,9,191,28354.58
+Kurnool,28,552,33122.82
+The Nilgiris,33,611,4530.96
+Coimbatore,33,632,29746.71
+Nalanda,10,229,21602.74
+Godda,20,351,8861.52
+Chikmagalur,29,570,13087.43
+Kanpur Nagar,9,164,46982.613
+Farrukhabad,9,159,10907.14
+South Goa,30,586,10523.63
+Varanasi,9,197,28295.84
+Kolar,29,581,22199.27
+Uttar Dinajpur,19,330,15784.32
+Mon,13,261,2021.4698
+Madurai,33,623,16849.531
+Mahamaya Nagar,9,144,16091.801
+Sirohi,8,117,13649.879
+Auraiya,9,162,20990.36
+Jagatsinghapur,21,380,21308.771
+Upper Siang,12,252,3781.7402
+Gulbarga,29,579,32186.86
+Umaria,23,431,7567.8203
+Jaipur,8,110,115187.13
+Pithoragarh,5,62,9771.4
+Reasi,1,20,6488.34
+Kohima,13,270,3148.75
+Sirmaur,2,32,6130.66
+Saharsa,10,214,10383.65
+West,11,242,1612.01
+Malappuram,32,592,7445.7803
+Viluppuram,33,607,21262.79
+Tapi,24,493,8821.9
+West Godavari,28,546,29636.121
+Madhepura,10,213,11886.1
+Saraikela-kharsawan,20,369,16242.0205
+Tiruppur,33,633,22619.68
+Mayurbhanj,21,376,14819.31
+Barnala,3,54,8151.13
+Dakshin Bastar Dantewada,22,416,8409.56
+Budaun,9,149,25095.66
+Ukhrul,14,279,3315.0098
+Krishnagiri,33,631,17783.791
+Hugli,19,338,24284.8
+Hanumangarh,8,100,19114.361
+Muzaffarpur,10,216,29292.42
+Giridih,20,349,17866.63
+Khunti,20,365,3903.5903
+Jammu,1,21,37248.78
+Koch Bihar,19,329,14426.71
+Sultanpur,9,179,27516.77
+Janjgir-champa,22,405,23929.05
+Jharsuguda,21,371,14716.95
+Lower Dibang Valley,12,258,3504.45
+Debagarh,21,373,2662.91
+Udham Singh Nagar,5,67,28437.672
+Murshidabad,19,333,27691.94
+Ludhiana,3,41,43377.832
+Dimapur,13,265,6814.3394
+Y.s.r.,28,551,28632.607
+Bilaspur,22,406,50628.965
+Aurangabad,10,235,21161.762
+North,7,91,10830.811
+Kabeerdham,22,407,12980.551
+Barpeta,18,303,5186.73
+Banswara,8,125,11823.65
+Rudraprayag,5,58,2951.23
+Erode,33,610,18452.85
+Nagpur,27,505,56999.64
+Gopalganj,10,217,16360.07
+Haveri,29,564,13446.139
+Puducherry,34,635,6290.02
+Amreli,24,480,24163.62
+Lahul & Spiti,2,25,17494.57
+Jorhat,18,312,7129.4297
+Chhatarpur,23,425,29573.52
+Osmanabad,27,525,16984.66
+Udhampur,1,19,8451.83
+Chandrapur,27,509,26499.549
+Mandya,29,573,19322.96
+South Garo Hills,17,295,2093.5303
+Sahibzada Ajit Singh Nagar,3,52,25543.5
+Lunglei,15,286,2147.75
+Lalitpur,9,167,13144.23
+Chandel,14,280,3260.0498
+Ganderbal,1,11,1567.1799
+Rupnagar,3,51,9112.561
+Hamirpur,2,28,2460.44
+Hamirpur,9,168,13812.36
+Warangal,28,540,31232.879
+Kandhamal,21,390,5748.39
+Yamunanagar,6,71,13736.24
+Singrauli,23,463,27326.92
+Khordha,21,386,23198.49
+Kangra,2,24,11514.431
+Katni,23,450,16091.67
+Barwani,23,441,10921.88
+Kasaragod,32,588,3762.23
+Ambedkar Nagar,9,178,16122.36
+Narsimhapur,23,452,20588.54
+Durg,22,409,42099.11
+Chirang,18,320,6287.9395
+Neemuch,23,432,11846.64
+Panipat,6,75,22664.309
+Nizamabad,28,533,24150.22
+Salem,33,608,29431.008
+Sehore,23,445,20102.51
+Banas Kantha,24,469,32593.34
+Aligarh,9,143,35973.9
+Chikkaballapura,29,582,15401.71
+Etah,9,201,15294.199
+Solan,2,31,10564.21
+Sivaganga,33,622,8286.9
+West Garo Hills,17,293,7694.7197
+Puruliya,19,340,18475.43
+Hazaribagh,20,360,18596.941
+Chitrakoot,9,171,7839.8496
+Parbhani,27,513,19787.42
+Baran,8,128,27847.361
+Visakhapatnam,28,544,43200.08
+Satna,23,429,32021.23
+Hardoi,9,155,22696.35
+Dakshina Kannada,29,575,19363.492
+Seoni,23,456,14409.13
+Rohtas,10,234,19960.861
+Dewas,23,437,19923.15
+Moradabad,9,135,31016.06
+Ramban,1,17,3037.2402
+Rewari,6,85,14793.66
+Tamenglong,14,273,3440.9097
+South Tripura,16,290,11522.859
+Sonitpur,18,306,14468.139
+Birbhum,19,334,28515.43
+Una,2,29,5108.6797
+Darbhanga,10,215,14918.7705
+Jajapur,21,382,29772.45
+Pratapgarh,9,173,21521.498
+Chittaurgarh,8,126,32057.969
+Ernakulam,32,595,27404.021
+East Garo Hills,17,294,2830.5
+Tehri Garhwal,5,59,8391.029
+Udaipur,8,130,36424.773
+Raipur,22,410,63450.484
+Kansiram Nagar,9,202,9784.909
+Dhalai,16,291,4581.94
+Koriya,22,400,11298.659
+Supaul,10,208,12230.39
+Jalandhar,3,37,25979.64
+Akola,27,501,16680.32
+Samastipur,10,221,16529.219
+Mysore,29,577,35401.85
+Shupiyan,1,13,1018.33997
+Bharatpur,8,105,26030.61
+Thrissur,32,594,11735.669
+Yanam,34,634,2695.0999
+Saiha,15,288,819.16
+Senapati,14,272,4843.0103
+Chamba,2,23,8707.6
+Dungarpur,8,124,9647.71
+Muktsar,3,44,11930.34
+Meerut,9,138,31279.34
+Gadag,29,561,11023.71
+Jaunpur,9,194,27388.09
+Bhind,23,420,24585.95
+Solapur,27,526,74260.05
+Almora,5,64,5043.3896
+Upper Subansiri,12,249,3550.0698
+Patan,24,470,13977.62
+Jashpur,22,402,9847.58
+Bokaro,20,355,28910.379
+Thiruvananthapuram,32,601,15142.639
+Rae Bareli,9,158,29206.39
+Kurung Kumey,12,256,3523.98
+Wokha,13,264,2341.31
+Gumla,20,366,5059.8506
+Dibang Valley,12,257,4996.25
+Nadia,19,336,23529.09
+Davanagere,29,567,19739.201
+Pashchim Medinipur,19,344,33786.188
+Cachar,18,316,7820.9995
+Kaimur (bhabua),10,233,10819.5205
+Simdega,20,367,3099.88
+Firozpur,3,43,31603.422
+Baghpat,9,139,12897.61
+Purbi Singhbhum,20,357,28663.889
+Bahraich,9,180,16449.98
+Kishtwar,1,18,11472.299
+Hardwar,5,68,25812.031
+Raisen,23,446,24189.93
+Gajapati,21,389,3877.49
+Malkangiri,21,399,5996.09
+Deoria,9,190,18507.871
+Amravati,27,503,33453.86
+Bharuch,24,488,52305.53
+Baleshwar,21,377,14659.24
+Puri,21,387,11531.32
+Sant Ravi Das Nagar(bhadohi),9,198,10081.29
+Barddhaman,19,335,74432.586
+Bara Banki,9,176,18921.97
+Anand,24,482,16624.94
+Bathinda,3,46,30375.078
+Latur,27,524,16532.06
+Bangalore,29,572,173822.38
+North,11,241,3068.72
+Ganganagar,8,99,29684.68
+Narayanpur,22,415,2143.4302
+Peren,13,271,1382.3401
+Gurgaon,6,86,48091.402
+Pashchimi Singhbhum,20,368,15762.31
+Bagalkot,29,556,20703.611
+Bijnor,9,134,23167.49
+Nayagarh,21,385,5190.38
+Thiruvallur,33,602,46172.867
+Nagappattinam,33,618,8057.34
+Korba,22,404,30517.908
+Karur,33,613,9582.53
+Bhilwara,8,122,33440.37
+Chamrajnagar,29,578,11733.1
+Raigarh,22,403,31065.168
+Ratnagiri,27,528,11643.31
+Marigaon,18,304,4186.58
+Gautam Buddha Nagar,9,141,74465.79
+Gorakhpur,9,188,35449.383
+Shahid Bhagat Singh Nagar,3,39,6451.44
+Rampur,9,136,17316.41
+Dumka,20,362,10168.449
+Bareilly,9,150,30756.42
+Pashchim Champaran,10,203,20279.11
+Ambala,6,70,16686.34
+Pathanamthitta,32,599,5539.36
+Kozhikode,32,591,5369.9404
+Mainpuri,9,148,21200.51
+Thanjavur,33,620,10999.84
+Chhindwara,23,455,18777.059
+Kannur,32,589,6047.49
+Saharanpur,9,132,28478.14
+Datia,23,422,12471.819
+Dhemaji,18,308,3097.06
+Champawat,5,65,1935.54
+Yadgir,29,580,13954.789
+Sidhi,23,462,12435.171
+Uttarkashi,5,56,9759.861
+Madhubani,10,207,19246.11
+Satara,27,527,28612.834
+Indore,23,439,45855.668
+Maldah,19,332,15820.85
+Baksa,18,324,5544.7295
+Kathua,1,7,11402.09
+Junagadh,24,479,30801.549
+Haora,19,341,23900.91
+Kannauj,9,160,12653.76
+Golaghat,18,313,17467.26
+Dehradun,5,60,24416.441
+Chatra,20,347,7041.32
+Shajapur,23,436,18744.88
+Jind,6,77,16128.22
+Rajgarh,23,442,20652.94
+Amritsar,3,49,33368.68
+Lakshadweep,31,587,464.46
+Gonda,9,183,22276.959
+Jabalpur,23,451,33973.242
+West Siang,12,250,4342.12
+Leh (ladakh),1,3,92801.72
+Mumbai Suburban,27,518,47142.08
+Thoothukkudi,33,627,16952.379
+Bhavnagar,24,481,31914.55
+Narmada,24,487,6595.0195
+Koraput,21,398,15034.16
+Lohit,12,259,3146.89
+Hassan,29,574,22002.1
+Nainital,5,66,12411.2
+Tawang,12,245,1425.56
+Nashik,27,516,73143.47
+Garhchiroli,27,508,11069.07
+Latehar,20,359,5452.98
+Uttar Bastar Kanker,22,413,7594.1196
+Serchhip,15,285,641.35
+Subarnapur,21,392,4983.2
+North East,7,92,9969.42
+Rajouri,1,6,7109.9204
+Alwar,8,104,61861.777
+Panna,23,426,13750.981
+Dhar,23,438,26779.75
+Shrawasti,9,181,8579.051
+East Godavari,28,545,52056.902
+Kanniyakumari,33,629,9695.301
+Jalgaon,27,499,33931.07
+Maharajganj,9,187,11938.34
+Pulwama,1,12,2160.24
+Kolkata,19,342,19602.852
+Pune,27,521,147321.86
+Munger,10,226,8012.93
+Dharmapuri,33,630,10813.15
+Pudukkottai,33,621,9528.049
+Karimnagar,28,534,45054.438
+Banda,9,170,13364.001
+Jalor,8,116,18909.55
+Sahibganj,20,352,7258.6304
+Mokokchung,13,262,2603.55
+Kheda,24,483,20151.23
+Bauda,21,391,3563.26
+Pali,8,118,31008.422
+Kamrup Metropolitan,18,322,12617.53
+Panch Mahals,24,484,18017.71
+Deoghar,20,350,19239.36
+Jehanabad,10,239,9688.93
+Kodagu,29,576,4727.8804
+Srinagar,1,10,6086.9697
+Aurangabad,27,515,41926.973
+Dhule,27,498,18507.648
+Kishanganj,10,210,6719.54
+Gurdaspur,3,35,21677.021
+Sikar,8,111,32503.19
+West Nimar,23,440,16097.25
+Nawada,10,237,11955.791
+Ujjain,23,435,29984.11
+Nagaur,8,112,50987.02
+Patna,10,230,51532.387
+Dausa,8,109,27699.898
+West Khasi Hills,17,296,4597.8896
+Samba,1,22,8348.88
+Tinsukia,18,309,17854.04
+Chitradurga,29,566,24010.39
+Sambalpur,21,372,18401.9
+Purba Champaran,10,204,25123.59
+Burhanpur,23,467,4819.69
+Idukki,32,596,6442.7803
+Jalpaiguri,19,328,24304.59
+Anjaw,12,260,3716.8901
+Shahdol,23,460,12083.55
+Bargarh,21,370,14679.22
+East Khasi Hills,17,298,7401.9595
+Bhiwani,6,81,22614.09
+Navsari,24,490,9606.48
+Bastar,22,414,14376.171
+Barmer,8,115,46543.668
+Lohardaga,20,356,3740.2798
+Kota,8,127,37021.52
+Sirsa,6,79,15717.69
+Gaya,10,236,36063.54
+Diu,25,494,697.71
+Dima Hasao,18,315,3531.01
+Dadra & Nagar Haveli,26,496,9038.38
+Nalbari,18,323,2228.48
+Anantnag,1,14,5319.9
+Mansa,3,47,8919.18
+Ramanathapuram,33,626,7209.8906
+Kendujhar,21,375,21727.84
+Raichur,29,559,25892.152
+Tiruchirappalli,33,614,20363.988
+Dindigul,33,612,16293.74
+Rajsamand,8,123,19430.371
+Jhajjar,6,83,17594.92
+Ranchi,20,364,37214.516
+East,7,93,13876.83
+East,11,244,2724.07
+Karimganj,18,317,5178.95
+Ajmer,8,119,39133.65
+Bidar,29,558,17724.28
+Kendrapara,21,379,6156.35
+Nalgonda,28,539,42736.85
+Bhagalpur,10,224,19062.52
+Bhadrak,21,378,8059.4707
+Imphal East,14,278,7765.4097
+Patiala,3,48,27278.451
+Sundargarh,21,374,31928.998
+Kaithal,6,73,13322.779
+Sri Potti Sriramulu Nellore,28,550,33158.38
+Anugul,21,384,25807.43
+Bangalore Rural,29,583,24457.871
+Bijapur,22,417,4087.0503
+Anantapur,28,553,41953.79
+Palakkad,32,593,10821.11
+Sant Kabir Nagar,9,186,7540.9795
+Theni,33,624,6008.25
+Rajkot,24,476,58594.098
+Allahabad,9,175,59965.242
+Sitamarhi,10,206,13073.89
+Balangir,21,393,15547.119
+Bijapur,29,557,26456.73
+Sangrur,3,53,21381.238
+Balaghat,23,457,11330.15
+Rangareddy,28,537,119582.21
+Dakshin Dinajpur,19,331,8588.77
+Pakur,20,353,5001.4
+Bundi,8,121,18169.451
+Garhwal,5,61,8524.24
+Faridkot,3,45,7919.5903
+Bilaspur,2,30,3318.71
+Badgam,1,2,5281.31
+Buxar,10,232,10240.6
+Churu,8,102,31551.24
+Adilabad,28,532,33145.6
+Ariyalur,33,616,5657.31
+Kanpur Dehat,9,163,15303.689
+Tonk,8,120,16542.34
+Betul,23,447,14564.02
+Sivasagar,18,311,15759.329
+Nanded,27,511,27292.4
+Karauli,8,107,23632.15
+Namakkal,33,609,14491.439
+Bhojpur,10,231,17545.16
+Kullu,2,26,8049.09
+Porbandar,24,478,7390.06
+Basti,9,185,16427.35
+Data Not Available,99,0,135825.55
+Daman,25,495,2987.03
+Mamit,15,281,1603.5701
+Sheopur,23,418,12475.7295
+Surendranagar,24,475,32292.992
+Palamu,20,358,11372.399
+Kiphire,13,269,910.82996
+Alappuzha,32,598,6329.4497
+Kancheepuram,33,604,62635.92
+Sheikhpura,10,228,4196.07
+Balrampur,9,182,9804.25
+Morena,23,419,23250.979
+Karnal,6,74,23781.02
+Shimoga,29,568,17457.219
+Rewa,23,430,33316.41
+Kalahandi,21,395,12735.229
+Jhabua,23,464,10586.511
+Sheohar,10,205,2111.67
+Vidisha,23,443,18902.08
+Changlang,12,253,4942.91
+West,7,96,20855.05
+East Nimar,23,466,13461.58
+Goalpara,18,302,7280.7197
+Nicobar,35,638,443.58
+Kokrajhar,18,300,7903.1904
+Prakasam,28,549,33385.938
+Rajnandgaon,22,408,15393.721
+Jyotiba Phule Nagar,9,137,16104.129
+Vizianagaram,28,543,11327.43
+Siwan,10,218,17827.43
+Shahjahanpur,9,152,21898.87
+Bid,27,523,32675.527
+Lakhimpur,18,307,4995.66
+Karbi Anglong,18,314,12715.051
+Ahmadabad,24,474,79538.914
+Tikamgarh,23,424,25518.73
+Virudunagar,33,625,13831.18
+South West,7,97,46498.402
+Wayanad,32,590,2511.5598
+Longleng,13,268,646.55005
+Cuddalore,33,617,19774.65
+Hyderabad,28,536,36724.305
+Bishnupur,14,275,1588.45
+Kaushambi,9,174,15562.68
+Dharwad,29,562,18139.701
+Buldana,27,500,22844.053
+Mahbubnagar,28,538,62563.516
+Begusarai,10,222,16382.5
+Dhanbad,20,354,37459.42
+Fatehpur,9,172,19869.441
+Rayagada,21,396,8168.8496
+Vaishali,10,220,18207.799
+Mahoba,9,169,11435.79
+Dhubri,18,301,7917.6
+North Goa,30,585,14483.18
+Bongaigaon,18,319,3249.13
+Jamtara,20,363,7476.04
+Medak,28,535,50928.86
+Jamnagar,24,477,72612.83
+Sitapur,9,154,24023.55
+Vellore,33,605,26249.5
+Khagaria,10,223,6346.84
+Valsad,24,491,16845.22
+Bhandara,27,506,7590.3906
+Moga,3,42,13077.26
+Ratlam,23,434,17674.66
+Jaisalmer,8,114,45166.7
+Kurukshetra,6,72,12412.73
+Kupwara,1,1,2980.78
+Doda,1,16,3642.6702
+Raigarh,27,520,56441.49
+Kargil,1,4,19391.21
+Punch,1,5,7803.67
+Jhunjhunun,8,103,26448.828
+West Tripura,16,289,21976.691
+Central,7,95,3660.3699
+Pilibhit,9,151,10081.149
+Thane,27,517,102790.67
+Ballia,9,193,23987.78
+East Kameng,12,247,3022.0203
+Tirap,12,254,1950.36
+Dhamtari,22,412,6667.5
+North 24 Parganas,19,337,53172.17
+Tarn Taran,3,50,22454.7
+Kamrup,18,321,10928.25
+Dibrugarh,18,310,20781.39
+Ghaziabad,9,140,47192.35
+Kachchh,24,468,84450.31
+Firozabad,9,147,24936.498
+Arwal,10,240,4702.9805
+Kinnaur,2,34,7992.29
+Unnao,9,156,21746.441
+Papum Pare,12,248,6496.45
+Ramanagara,29,584,17942.39
+Chandauli,9,196,18228.299
+Tuensang,13,267,2197.4302
+Kottayam,32,597,6405.76
+South Andaman,35,640,2602.97
+Mewat,6,87,11860.72
+Etawah,9,161,22877.78
+East Siang,12,251,2922.66
+Sangli,27,531,26301.08
+Gandhinagar,24,473,28204.89
+Lucknow,9,157,87765.18
+Mahesana,24,471,29556.9
+Dohad,24,485,10070.42
+Dhenkanal,21,383,15861.59
+Shivpuri,23,423,29618.758
+The Dangs,24,489,1939.55
+Imphal West,14,277,389.64996
+Wardha,27,504,18383.89
+Garhwa,20,346,3785.67
+Nandurbar,27,497,16625.14
+Sindhudurg,27,529,5539.5996
+Lakhisarai,10,227,6135.38
+Khammam,28,541,28558.96
+Alirajpur,23,465,7865.48
+Nabarangapur,21,397,8534.689
+Nagaon,18,305,14418.9795
+New Delhi,7,94,9721.149
+Kheri,9,153,29838.27
+Koppal,29,560,15577.189
+Srikakulam,28,542,13218.07
+Kushinagar,9,189,14685.93
+Kulgam,1,15,1949.21
+Damoh,23,428,20789.209
+Dindori,23,453,6457.4204
+Tumkur,29,571,39234.52
+Kolasib,15,282,1225.75
+Purnia,10,211,19190.531
+Darrang,18,325,4649.7197
+Yavatmal,27,510,34545.27
+Lawangtlai,15,287,746.83
+Aizawl,15,283,3297.9102
+Zunheboto,13,263,2361.0298
+Siddharth Nagar,9,184,8883.16
+Fatehabad,6,78,11731.84
+Nuapada,21,394,6396.9497
+Kodarma,20,348,11673.4
+Jalna,27,514,21275.53
+Surguja,22,401,33349.57
+Bulandshahr,9,142,32192.488
+Cuttack,21,381,25655.139
+Krishna,28,547,35905.96
+Thoubal,14,276,3283.37
+North & Middle Andaman,35,639,682.44995
+Katihar,10,212,13598.57
+Ahmadnagar,27,522,78004.016
+Hingoli,27,512,11464.92
+Ri Bhoi,17,297,4710.13
+Mahasamund,22,411,17843.44
+Karaikal,34,637,1686.21
