@@ -60,7 +60,7 @@ for lat_index in range(len(latitudeUniqueValues)-1):
         if(pointList[top_left_Point]!='not_present' and pointList[top_rigt_Point]!='not_present' and 
           pointList[bot_left_Point]!='not_present' and pointList[bot_rigt_Point]!='not_present'):
             featureStr = '{ "type": "Feature", "properties": { "ID": "'
-            featureStr+= pointList[top_left_Point][0]+'@'+pointList[top_left_Point][1]+'@'+str(count_grid)
+            featureStr+= str(pointList[top_left_Point][0])+'@'+str(pointList[top_left_Point][1])+'@'+str(count_grid)
             count_grid+=1
             featureStr+='"}, "geometry": { "type": "Polygon", "coordinates": [ ['
             featureStr +='['+str(top_left_Point[1])+','+str(top_left_Point[0])+'],' 

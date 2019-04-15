@@ -12,17 +12,18 @@ from os.path import isfile, join
 # tiffFileName=sys.argv[1]
 # folder_containing_tifffiles = "data/copyDummyData"
 folder_containing_tifffiles = sys.argv[1]
-jsonFileName = sys.argv[2]
+jsonFolderName = sys.argv[2]
 output_directory = folder_containing_tifffiles+'_cutFiles'
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
 allTiffFiles = [f for f in listdir(folder_containing_tifffiles) if isfile(join(folder_containing_tifffiles, f))]
 
-jsonFileList=[jsonFileName]
+jsonFileList=[f for f in listdir(jsonFolderName) if isfile(join(jsonFolderName,f))]
 
 
 for tiffFileName in allTiffFiles:
     for jsonFileName in jsonFileList:
+        jsonFileName = jsonFolderName+'/'+jsonFileName
         stateData = json.loads(open(jsonFileName).read())
         print('tiffFileName',tiffFileName)
         print('jsonFileName',jsonFileName)
