@@ -7,6 +7,16 @@
 [Giridih epoch 23](https://www.google.com/fusiontables/DataSource?docid=1NHi6Sj5TP8wiu_m06Qr1YjQ_LLH_k9hTVLdOECKB)  
 [Giridih epoch 5](https://www.google.com/fusiontables/DataSource?docid=1g4ndgSpH0TE0ckg1Ek3UHCFXG4WNl9iz3mPn2beX)
 
+| District 	| NBU   	| BU  	| Epoch 	|
+|:--------:	|------	|------	|-------	|
+| Jaipur   	| 1116 	| 1930 	| 0     	|
+| Jaipur   	| 1030 	| 2016 	| 5     	|
+| Jaipur   	| 1189 	| 1858 	| 10    	|
+| Jaipur   	| 1076 	| 1970 	| 23    	|
+| Giridih  	| 986  	| 312  	| 5     	|
+| Giridih  	| 1105 	| 193  	| 23    	|
+
+
 # Pipeline
 1. Make Grid Csv with admin_data  
 2. Make json file using makeJson.py (python3 makeJson.py India_Goa_2000_m.csv)  
