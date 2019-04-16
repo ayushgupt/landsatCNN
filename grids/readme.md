@@ -1,5 +1,8 @@
 [Link to Goa_Fusion_Table](https://www.google.com/fusiontables/DataSource?docid=1vFIAYx9Da2dGRS2JSC5Etal7qPY4yABGaESA7iFR)  
 [GEE Tool to get Grids Points in CSV](https://goo.gl/bJv9BF)
+
+[Jaipur Fusion Table](https://www.google.com/fusiontables/DataSource?docid=1cTqMW1Y_VGNqS6oHz3NZOH0Ef-65tnfD9KaJZrwt)
+
 # Pipeline
 1. Make Grid Csv with admin_data  
 2. Make json file using makeJson.py (python3 makeJson.py India_Goa_2000_m.csv)  
