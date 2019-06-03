@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sum_correct_values_India_Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    #map {
+      width: 600px;
+      height: 450px;
+    }
+
+    table.blueTable {
+      font-family: "Times New Roman", Times, serif;
+      border: 1px solid #1C6EA4;
+      background-color: #EEEEEE;
+      width: 50%;
+      text-align: center;
+      border-collapse: collapse;
+      margin-left:auto; 
+      margin-right:auto;
+    }
+    table.blueTable td, table.blueTable th {
+      border: 1px solid #AAAAAA;
+      padding: 3px 2px;
+    }
+    table.blueTable tbody td {
+      font-size: 13px;
+    }
+    table.blueTable tr:nth-child(even) {
+      background: #D0E4F5;
+    }
+    table.blueTable thead {
+      background: #1C6EA4;
+      background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+      background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+      background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+      border-bottom: 2px solid #444444;
+    }
+    table.blueTable thead th {
+      font-size: 15px;
+      font-weight: bold;
+      color: #FFFFFF;
+      border-left: 2px solid #D0E4F5;
+    }
+    table.blueTable thead th:first-child {
+      border-left: none;
+    }
+
+    table.blueTable tfoot {
+      font-size: 14px;
+      font-weight: bold;
+      color: #FFFFFF;
+      background: #D0E4F5;
+      background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+      background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+      background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+      border-top: 2px solid #444444;
+    }
+    table.blueTable tfoot td {
+      font-size: 14px;
+    }
+    table.blueTable tfoot .links {
+      text-align: right;
+    }
+    table.blueTable tfoot .links a{
+      display: inline-block;
+      background: #1C6EA4;
+      color: #FFFFFF;
+      padding: 2px 8px;
+      border-radius: 5px;
+    }
+    h1 {
+      margin-left: auto;
+      font: Arial, Helvetica;
+      margin-right: auto;
+      text-align: center;
+    }
+
+
+
+
+  
+  </style>
+
+  <style>#map { width: 800px; height: 500px; }
+.info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } .info h4 { margin: 0 0 5px; color: #777; }
+.legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }</style>
+
+
+
+</head>
+
+<body>
+<div id="map" style="width: 1000px; height: 640px;   width: 100%;  align-content: center"></div>
+<br>
+<h1>Results of the leave one out analysis - at a glance</h1>
+  <div style="display: block; align-content: center;" class="table">
+    <table class="blueTable">
+    <thead>
+    <tr>
+    <th>Social Indicator</th>
+    <th>Accuracy</th>
+    </tr>
+    </thead>
+    <!--   <tfoot>
+      <tr>
+      <td colspan="2">
+      <div class="links"><a href="#">&laquo;</a> <a class="active" href="#">1</a> <a href="#">2</a> <a href="#">3</a> <a href="#">4</a> <a href="#">&raquo;</a></div>
+      </td>
+      </tr>
+      </tfoot>
+   -->  <tbody>
+    <tr>
+    <td>MSL</td><td>68.12</td></tr>
+    <tr>
+    <td>BF</td><td>74.637</td></tr>
+    <tr>
+    <td>MSW</td><td>81.28</td></tr>
+    <tr>
+    <td>FC</td><td>86.34</td></tr>
+    <tr>
+    <td>EMP</td><td>86.34</td></tr>
+    </tbody>
+    </table>  
+
+  </div>
+  <br>
+<h1>Summing number of correct indicators for each district</h1>
+  <div style="display: block; align-content: center;" class="table">
+    <table class="blueTable">
+    <thead>
+    <tr>
+    <th>Number of correct indicators</th>
+    <th>Number of districts</th>
+    </tr>
+    </thead>
+    <!--   <tfoot>
+      <tr>
+      <td colspan="2">
+      <div class="links"><a href="#">&laquo;</a> <a class="active" href="#">1</a> <a href="#">2</a> <a href="#">3</a> <a href="#">4</a> <a href="#">&raquo;</a></div>
+      </td>
+      </tr>
+      </tfoot>
+   -->  <tbody>
+    <tr>
+    <td>5</td><td>178</td></tr>
+    <tr>
+    <td>4</td><td>253</td></tr>
+    <tr>
+    <td>3</td><td>133</td></tr>
+    <tr>
+    <td>2</td><td>22</td></tr>
+    <tr>
+    <td>1</td><td>7</td></tr>
+    <tr>
+    <td>0</td><td>0</td></tr>    
+    <tr>
+    <td>Total</td><td>593</td></tr>        
+    </tbody>
+    </table>  
+
+  </div>
+  <br>
+
+<script>
+
+  var map = L.map('map').setView([ 24.18,78.87], 4);
+
+  var openstreetmap=new L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{ 
+        attribution: '&copy; <a href="http://openstreetmap.org/copyright"></a> contributors'});
+    openstreetmap.addTo(map);
+
+  // control that shows state info on hover
+  var info = L.control();
+
+  info.onAdd = function (map) {
+    this._div = L.DomUtil.create('div', 'info');
+    this.update();
+    return this._div;
+  };
+
+  info.update = function (props) {
+              if(props)
+              {
+                var z1="</br>2001 Data not available</p>";
+                if (props.hasOwnProperty('sum_errors')){
+                // alert(feature.properties.DISTRICT);
+                z1 = "</br><b>sum_correct:</b> "+ props.sum_errors.toLocaleString() 
+                +"</br><b>MSW_correct:</b> "+ props.MSW_corr.toLocaleString()
+                +"</br><b>MSL_correct:</b> "+ props.MSL_corr.toLocaleString()
+                +"</br><b>BF_correct:</b> "+ props.BF_corr.toLocaleString()
+                +"</br><b>FC_correct:</b> "+ props.FC_corr.toLocaleString()
+                +"</br><b>EMP_correct:</b> "+ props.EMP_corr.toLocaleString()+'</p>';
+                }
+
+            var popupContent = "<p><b>STATE: </b>"+ props.ST_NM +
+            "</br><b>District: </b>"+ props.DISTRICT +
+                "</br><b>State Census Code:</b> "+ props.ST_CEN_CD.toLocaleString() +
+                "</br><b>District Census Code:</b> "+ props.DT_CEN_CD.toLocaleString() +
+                "</br><b>censuscode:</b> "+ props.censuscode.toLocaleString()
+                // "</br><b>sum_errors:</b> "+ feature.properties.censuscode.toLocaleString() +'</p>'
+                +z1;
+              }
+
+                
+    this._div.innerHTML = '<h4>India District Information</h4>' +  (props ?
+      '<b>' + props.DISTRICT + '</b><br />' + popupContent
+      : 'Hover over a state');
+  };
+
+  info.addTo(map);
+
+
+
+
+
+  function style(feature) {
+        var z1=-1;
+        if (feature.properties.hasOwnProperty('sum_errors')){
+        z1 = feature.properties.sum_errors;
+        }
+        var z2;
+        if(z1==0)
+        {
+          z2="#ff0000";
+        }
+        else if(z1==1)
+        {
+          z2="#ff5000";
+        }
+        else if(z1==2)
+        {
+          z2="#ff9400";
+        }
+        else if(z1==3)
+        {
+          z2="#ccff33";
+        }
+        else if(z1==4)
+        {
+          z2="#66ff66";
+        }
+        else if(z1==5)
+        {
+          z2="#00ffcb";
+        }
+        else
+        {
+          z2="purple";
+        }
+         
+              return {
+                  fillColor: z2, 
+                  fillOpacity: 0.5,  
+                  weight: 2,
+                  opacity: 1,
+                  color: '#ffffff',
+                  dashArray: '3'
+              };
+  }
+  function highlightFeature(e) {
+    var layer = e.target;
+
+    layer.setStyle({
+      weight: 5,
+      color: '#666',
+      dashArray: '',
+      fillOpacity: 0.7
+    });
+
+    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+      layer.bringToFront();
+    }
+
+    info.update(layer.feature.properties);
+  }
+    var stateLayer;
+  function resetHighlight(e) {
+    stateLayer.resetStyle(e.target);
+    info.update();
+  }
+
+  function zoomToFeature(e) {
+    map.fitBounds(e.target.getBounds());
+  }
+
+
+  function forEachFeature(feature, layer) {
+    
+                  layer.on({
+                    mouseover: highlightFeature,
+                    mouseout: resetHighlight,
+                    // click: zoomToFeature
+                  });
+                var z1="</br>2001 Data not available</p>";
+                if (feature.properties.hasOwnProperty('sum_errors')){
+                // alert(feature.properties.DISTRICT);
+                z1 = "</br><b>sum_correct:</b> "+ feature.properties.sum_errors.toLocaleString() +'</p>';
+                }
+
+            var popupContent = "<p><b>STATE: </b>"+ feature.properties.ST_NM +
+            "</br><b>District: </b>"+ feature.properties.DISTRICT +
+                "</br><b>State Census Code:</b> "+ feature.properties.ST_CEN_CD.toLocaleString() +
+                "</br><b>District Census Code:</b> "+ feature.properties.DT_CEN_CD.toLocaleString() +
+                "</br><b>censuscode:</b> "+ feature.properties.censuscode.toLocaleString()
+                // "</br><b>sum_errors:</b> "+ feature.properties.censuscode.toLocaleString() +'</p>'
+                +z1;
+                
+
+            layer.bindPopup(popupContent);
+
+        }
+
+
+  // Null variable that will hold layer
+  stateLayer = L.geoJson(null, {onEachFeature: forEachFeature, style: style});
+
+  //Adding data to variable
+      $.getJSON("all_indic.json", function(data) {
+          stateLayer.addData(data);
+      });
+
+  //Adding layer to map
+   stateLayer.addTo(map);
+  map.fitBounds(stateLayer.getBounds());
+</script>
+</body>
+</html>
